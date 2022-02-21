@@ -1,1 +1,1 @@
-# kick-start analysis
+# kick-starter analysis

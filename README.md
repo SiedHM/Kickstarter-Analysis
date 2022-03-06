@@ -1,16 +1,23 @@
 # Challenge-1 Report
 
 #1.	Overview of Project.
+
+
 :A play writer named Louise is writing a play name Fever. For this, she plans to conduct a crowed funding campaign with an estimated budget of a little more than $10,000. Before she starts the campaign, she wants to understand whether there are specific factors that make a campaign successful.  As an excel expert, I am asked to help her by analyzing a kickstart crowd funding data in excel and identify categories that makes campaigns successful. More specifically, she wanted to know how different campaigns fared in relation to their launch dates and their funding goals.
 
 
 
 #The purpose of the report is
-:i.	To analyze campaign outcomes [i.e., successful, failed and canceled] based on their launch date.
+
+
+i.	To analyze campaign outcomes [i.e., successful, failed and canceled] based on their launch date.
 ii.	To analyze percentage of successful, failed, and canceled campaigns based on the funding goal amount 
 
 #2.	Data and Method of analysis
- :I used Kickstarter Data which contains about 4114 crowed funding campaign projects from multiple countries. The data was obtained from Bootcamp for this exercise. I used the excel cell YEAR, CUNTIFS functions, and Pivot table to generate the results. 
+
+
+
+ I used Kickstarter Data which contains about 4114 crowed funding campaign projects from multiple countries. The data was obtained from Bootcamp for this exercise. I used the excel cell YEAR, CUNTIFS functions, and Pivot table to generate the results. 
 The results are analyzed graphically. 
 
 #3 Analysis and Challenge
@@ -21,14 +28,18 @@ The results are analyzed graphically.
 
 
 ##3.1. Analysis of Outcomes Based on Launch Date
-:   Figure-1 below shows the number of successful, failed and canceled projects based on their launch dates. From this figure, it can be seen that number of successful projects are greater than the numbers of failed and cancelled projects over the entire start dates. Larger number of successful projects started from May to August (i.e., about 44% of successful projects start from May to August). Smaller number of successful projects started at the end of the year.
+
+
+
+
+ Figure-1 below shows the number of successful, failed and canceled projects based on their launch dates. From this figure, it can be seen that number of successful projects are greater than the numbers of failed and cancelled projects over the entire start dates. Larger number of successful projects started from May to August (i.e., about 44% of successful projects start from May to August). Smaller number of successful projects started at the end of the year.
  
  #[Figure-1 Here]
  
 Looking at the pattern for successful projects, the number of successful projects almost increased from the beginning of the year (January) until it reached its maximum in May and then decreased after wards. 
 The number of failed projects have trend almost similar to the trend of the number of successful projects. 
 
-#3.2.	Analysis of Outcomes Based on Goals
+##3.2.	Analysis of Outcomes Based on Goals
 
 
 
@@ -56,6 +67,9 @@ The implication from this is that the higher, in particular, an extremely high g
 
 
 #What are some other possible tables and/or graphs that we could create?
+
+
+
 We can generate tables/graphs of the following.
 1.	In addition to the graph of outcome based on the launch date, we can have outcome based on the duration of the campaign. This requires generation new variable or column using the project start data and project end data.  It may answer to the question how long should the project campaign last to be successful? 
 2.	Table that contains the subcategory and percentage of funding amount. 

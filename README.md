@@ -44,7 +44,9 @@ The number of failed projects have trend almost similar to the trend of the numb
 
 
 :Figure-2 shows the percentage of successful, percentage of failed and percentage of cancelled projects based on the fund goals. As can it can be seen from the figure, when the funding goal amount is between $1000 and $29999, the percentage successful(failed) campaign projects decreased(increased) as the funding goal amount increased. Further, when the funding goal amount is above $44999, the percentage of successful projects are below 20% and the percentage of failed projects are above 85%. From this figure, we can conclude that the funding goal amount has an impact on the percentage of successful/failed projects. The higher the funding goal, the more likely is the project to fail. 
- #[Figure-2 Here]
+
+
+#[Figure-2 Here]
 
 
 

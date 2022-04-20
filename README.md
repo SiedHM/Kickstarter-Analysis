@@ -1,6 +1,6 @@
 # Challenge-1 Report
 By Sied H. Mohamed
-#1.	Overview of Project.
+# 1.	Overview of Project.
 
 
 :A play writer named Louise is writing a play name Fever. For this, she plans to conduct a crowed funding campaign with an estimated budget of a little more than $10,000. Before she starts the campaign, she wants to understand whether there are specific factors that make a campaign successful.  As an excel expert, I am asked to help her by analyzing a kickstart crowd funding data in excel and identify categories that makes campaigns successful. More specifically, she wanted to know how different campaigns fared in relation to their launch dates and their funding goals.
